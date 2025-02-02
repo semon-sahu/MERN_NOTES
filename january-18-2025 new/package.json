@@ -1,0 +1,14 @@
+{
+  "name": "january-18-2025-new",
+  "version": "1.0.0",
+  "main": "indedx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
