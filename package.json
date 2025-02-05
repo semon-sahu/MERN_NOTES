@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "axios": "^1.7.9",
     "express": "^4.21.2",
     "uppercase": "^2.0.0-beta.23"
   }
