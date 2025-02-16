@@ -5,3 +5,6 @@ const empController = require("../controller/empController");
 router.post("/datasave", empController.empdata);
 
 module.exports = router;
+
+
+
