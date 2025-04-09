@@ -1,0 +1,20 @@
+
+#footer{
+    background-color: #333;
+    color: white;
+
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    /* bottom: 0; */
+    width: 100%;
+
+
+
+}
+.formlogin{
+    width: 300px;
+margin: auto;
+padding: 30px;
+border: 2px solid #ccc;
+}
